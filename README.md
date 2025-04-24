@@ -2,4 +2,4 @@
 
 Welcome to Github
 
-I am Harsha CV
+I am Harsha Gowda
