@@ -1,3 +1,2 @@
-//Js
 
 Hello Javascript
