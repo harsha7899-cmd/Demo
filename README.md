@@ -1,3 +1,3 @@
 # Demo
  
- Sample Code for Index.html and style.css
+ Website Code for Index.html and style.css
