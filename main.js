@@ -1,4 +1,4 @@
 Hello World
 
 
-New to JavaScript programming lang
+New to JavaScript programming language
